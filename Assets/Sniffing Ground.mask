@@ -1,0 +1,520 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sniffing Ground
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BrownBear_Geo
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Brown_Bear_Geo
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Brown_Bear_Geo/Brown_Bear
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Brown_Bear_Geo/eye_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Brown_Bear_Geo/eye_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Ear_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Ear_L/EarEnd_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Ear_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Ear_R/EarEnd_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Hair_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Jaw_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Jaw_M/JawEnd_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/frontHip_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/frontHip_L/frontKnee_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/frontHip_L/frontKnee_L/frontAnkle_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/frontHip_L/frontKnee_L/frontAnkle_L/frontBall_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/frontHip_L/frontKnee_L/frontAnkle_L/frontBall_L/frontToe_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/frontHip_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/frontHip_R/frontKnee_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/frontHip_R/frontKnee_R/frontAnkle_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/frontHip_R/frontKnee_R/frontAnkle_R/frontBall_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/frontHip_R/frontKnee_R/frontAnkle_R/frontBall_R/frontToe_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_L/backKnee_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_L/backKnee_L/backAnkle_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_L/backKnee_L/backAnkle_L/backBall_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_L/backKnee_L/backAnkle_L/backBall_L/backToe_L
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_R/backKnee_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_R/backKnee_R/backAnkle_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_R/backKnee_R/backAnkle_R/backBall_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/backHip_R/backKnee_R/backAnkle_R/backBall_R/backToe_R
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/Tail0_M
+    m_Weight: 0
+  - m_Path: BrownBear_Geo/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M
+    m_Weight: 0
+  - m_Path: directionalLight1
+    m_Weight: 0
+  - m_Path: directionalLight2
+    m_Weight: 0
+  - m_Path: directionalLight3
+    m_Weight: 0
+  - m_Path: Panther
+    m_Weight: 0
+  - m_Path: Panther001
+    m_Weight: 0
+  - m_Path: Panther001LLegPlatform
+    m_Weight: 0
+  - m_Path: Panther001LLegPlatform 1
+    m_Weight: 0
+  - m_Path: Panther001Pelvis
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit01
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit01/Panther001LLegDigit02
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit11
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit11/Panther001LLegDigit12
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit21
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit21/Panther001LLegDigit22
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit31
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001LLeg1/Panther001LLeg2/Panther001LLegPalm/Panther001LLegDigit31/Panther001LLegDigit32
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit01
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit01/Panther001RLegDigit02
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit11
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit11/Panther001RLegDigit12
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit21
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit21/Panther001RLegDigit22
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit31
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001RLeg1/Panther001RLeg2/Panther001RLegPalm/Panther001RLegDigit31/Panther001RLegDigit32
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Spine1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit01 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit01 1/Panther001LLegDigit02
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit11 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit11 1/Panther001LLegDigit12
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit21 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit21 1/Panther001LLegDigit22
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit31 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001LLegCollarbone/Panther001LLeg1
+      1/Panther001LLeg2 1/Panther001LLegPalm 1/Panther001LLegDigit31 1/Panther001LLegDigit32
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001Neck1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001Neck1/Panther001Neck2
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001Neck1/Panther001Neck2/Panther001Neck3
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001Neck1/Panther001Neck2/Panther001Neck3/Panther001Neck4
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001Neck1/Panther001Neck2/Panther001Neck3/Panther001Neck4/Panther001Neck5
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001Neck1/Panther001Neck2/Panther001Neck3/Panther001Neck4/Panther001Neck5/Panther001Head
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit01 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit01 1/Panther001RLegDigit02
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit11 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit11 1/Panther001RLegDigit12
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit21 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit21 1/Panther001RLegDigit22
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit31 1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Spine1/Panther001Spine2/Panther001Spine3/Panther001Spine4/Panther001Spine5/Panther001Spine6/Panther001Ribcage/Panther001RLegShoulderblade/Panther001RLeg1
+      1/Panther001RLeg2 1/Panther001RLegPalm 1/Panther001RLegDigit31 1/Panther001RLegDigit32
+      1
+    m_Weight: 1
+  - m_Path: Panther001Pelvis/Panther001Tail1
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Tail1/Panther001Tail2
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Tail1/Panther001Tail2/Panther001Tail3
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Tail1/Panther001Tail2/Panther001Tail3/Panther001Tail4
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Tail1/Panther001Tail2/Panther001Tail3/Panther001Tail4/Panther001Tail5
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Tail1/Panther001Tail2/Panther001Tail3/Panther001Tail4/Panther001Tail5/Panther001Tail6
+    m_Weight: 0
+  - m_Path: Panther001Pelvis/Panther001Tail1/Panther001Tail2/Panther001Tail3/Panther001Tail4/Panther001Tail5/Panther001Tail6/Panther001Tail7
+    m_Weight: 0
+  - m_Path: Panther001RLegPlatform
+    m_Weight: 0
+  - m_Path: Panther001RLegPlatform 1
+    m_Weight: 0
+  - m_Path: PantherLLegPlatform
+    m_Weight: 0
+  - m_Path: PantherLLegPlatform 1
+    m_Weight: 0
+  - m_Path: PantherPelvis
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherLLeg1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit01
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit01/PantherLLegDigit02
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit11
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit11/PantherLLegDigit12
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit21
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit21/PantherLLegDigit22
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit31
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit31/PantherLLegDigit32
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit053
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLeg3/PantherLLegPalm/PantherLLegDigit053/PantherLLegDigit054
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit01
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit01/PantherRLegDigit02
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit11
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit11/PantherRLegDigit12
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit21
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit21/PantherRLegDigit22
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit21
+      1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit21
+      1/PantherRLegDigit22 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit31
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLeg3/PantherRLegPalm/PantherRLegDigit31/PantherRLegDigit32
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit01 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit01 1/PantherLLegDigit02
+      1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit11 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit11 1/PantherLLegDigit12
+      1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit21 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit21 1/PantherLLegDigit22
+      1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit31 1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit31 1/PantherLLegDigit32
+      1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit51
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLegShoulderblade/PantherLLeg1
+      1/PantherLLeg2 1/PantherLLeg3 1/PantherLLegPalm 1/PantherLLegDigit51/PantherLLegDigit52
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/Eye1_L
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/Eye1_R
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/Eye_L
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/Eye_R
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherHeadBone001
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      1/PantherTail2 2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      1/PantherTail2 2/PantherTail3 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      1/PantherTail2 2/PantherTail3 1/PantherTail4
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      1/PantherTail2 2/PantherTail3 1/PantherTail4/PantherTail5 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      2/PantherTail2 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      2/PantherTail2 1/PantherTail5
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      2/PantherTail2 1/PantherTail5/PantherTail3 2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead/PantherTail1
+      2/PantherTail2 1/PantherTail5/PantherTail3 2/PantherTail5 2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit01 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit01 1/PantherRLegDigit02
+      1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit11 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit11 1/PantherRLegDigit12
+      1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit21 2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit21 2/PantherRLegDigit22
+      2
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit31 1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit31 1/PantherRLegDigit32
+      1
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit51
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLegShoulderblade/PantherRLeg1
+      1/PantherRLeg2 1/PantherRLeg3 1/PantherRLegPalm 1/PantherRLegDigit51/PantherRLegDigit52
+    m_Weight: 1
+  - m_Path: PantherPelvis/PantherTail1
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherTail1/PantherTail2
+    m_Weight: 0
+  - m_Path: PantherPelvis/PantherTail1/PantherTail2/PantherTail3
+    m_Weight: 0
+  - m_Path: PantherRLegPlatform
+    m_Weight: 0
+  - m_Path: PantherRLegPlatform 1
+    m_Weight: 0

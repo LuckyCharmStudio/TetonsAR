@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 5d2a159e7ad8d5945ac82934d895dd98
+timeCreated: 1524233913
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackA_M
+    100002: backAnkle_L
+    100004: backAnkle_R
+    100006: BackB_M
+    100008: backBall_L
+    100010: backBall_R
+    100012: backHip_L
+    100014: backHip_R
+    100016: backKnee_L
+    100018: backKnee_R
+    100020: backToe_L
+    100022: backToe_R
+    100024: //RootNode
+    100026: Brown_Bear
+    100028: Brown_Bear_Geo
+    100030: BrownBear_Geo
+    100032: Chest_M
+    100034: DeformationSystem
+    100036: directionalLight1
+    100038: directionalLight2
+    100040: directionalLight3
+    100042: Ear_L
+    100044: Ear_R
+    100046: EarEnd_L
+    100048: EarEnd_R
+    100050: Eye1_L
+    100052: Eye1_R
+    100054: Eye_L
+    100056: eye_L
+    100058: Eye_R
+    100060: eye_R
+    100062: frontAnkle_L
+    100064: frontAnkle_R
+    100066: frontBall_L
+    100068: frontBall_R
+    100070: frontHip_L
+    100072: frontHip_R
+    100074: frontKnee_L
+    100076: frontKnee_R
+    100078: frontToe_L
+    100080: frontToe_R
+    100082: Hair_M
+    100084: Head_M
+    100086: Jaw_M
+    100088: JawEnd_M
+    100090: Main
+    100092: Neck_M
+    100094: NeckPart1_M
+    100096: Panther
+    100098: Panther001
+    100100: Panther001Head
+    100102: Panther001LLeg1
+    100104: Panther001LLeg1 1
+    100106: Panther001LLeg2
+    100108: Panther001LLeg2 1
+    100110: Panther001LLegCollarbone
+    100112: Panther001LLegDigit01
+    100114: Panther001LLegDigit01 1
+    100116: Panther001LLegDigit02
+    100118: Panther001LLegDigit02 1
+    100120: Panther001LLegDigit11
+    100122: Panther001LLegDigit11 1
+    100124: Panther001LLegDigit12
+    100126: Panther001LLegDigit12 1
+    100128: Panther001LLegDigit21
+    100130: Panther001LLegDigit21 1
+    100132: Panther001LLegDigit22
+    100134: Panther001LLegDigit22 1
+    100136: Panther001LLegDigit31
+    100138: Panther001LLegDigit31 1
+    100140: Panther001LLegDigit32
+    100142: Panther001LLegDigit32 1
+    100144: Panther001LLegPalm
+    100146: Panther001LLegPalm 1
+    100148: Panther001LLegPlatform
+    100150: Panther001LLegPlatform 1
+    100152: Panther001Neck1
+    100154: Panther001Neck2
+    100156: Panther001Neck3
+    100158: Panther001Neck4
+    100160: Panther001Neck5
+    100162: Panther001Pelvis
+    100164: Panther001Ribcage
+    100166: Panther001RLeg1
+    100168: Panther001RLeg1 1
+    100170: Panther001RLeg2
+    100172: Panther001RLeg2 1
+    100174: Panther001RLegDigit01
+    100176: Panther001RLegDigit01 1
+    100178: Panther001RLegDigit02
+    100180: Panther001RLegDigit02 1
+    100182: Panther001RLegDigit11
+    100184: Panther001RLegDigit11 1
+    100186: Panther001RLegDigit12
+    100188: Panther001RLegDigit12 1
+    100190: Panther001RLegDigit21
+    100192: Panther001RLegDigit21 1
+    100194: Panther001RLegDigit22
+    100196: Panther001RLegDigit22 1
+    100198: Panther001RLegDigit31
+    100200: Panther001RLegDigit31 1
+    100202: Panther001RLegDigit32
+    100204: Panther001RLegDigit32 1
+    100206: Panther001RLegPalm
+    100208: Panther001RLegPalm 1
+    100210: Panther001RLegPlatform
+    100212: Panther001RLegPlatform 1
+    100214: Panther001RLegShoulderblade
+    100216: Panther001Spine1
+    100218: Panther001Spine2
+    100220: Panther001Spine3
+    100222: Panther001Spine4
+    100224: Panther001Spine5
+    100226: Panther001Spine6
+    100228: Panther001Tail1
+    100230: Panther001Tail2
+    100232: Panther001Tail3
+    100234: Panther001Tail4
+    100236: Panther001Tail5
+    100238: Panther001Tail6
+    100240: Panther001Tail7
+    100242: PantherHead
+    100244: PantherHeadBone001
+    100246: PantherLLeg1
+    100248: PantherLLeg1 1
+    100250: PantherLLeg2
+    100252: PantherLLeg2 1
+    100254: PantherLLeg3
+    100256: PantherLLeg3 1
+    100258: PantherLLegDigit01
+    100260: PantherLLegDigit01 1
+    100262: PantherLLegDigit02
+    100264: PantherLLegDigit02 1
+    100266: PantherLLegDigit053
+    100268: PantherLLegDigit054
+    100270: PantherLLegDigit11
+    100272: PantherLLegDigit11 1
+    100274: PantherLLegDigit12
+    100276: PantherLLegDigit12 1
+    100278: PantherLLegDigit21
+    100280: PantherLLegDigit21 1
+    100282: PantherLLegDigit22
+    100284: PantherLLegDigit22 1
+    100286: PantherLLegDigit31
+    100288: PantherLLegDigit31 1
+    100290: PantherLLegDigit32
+    100292: PantherLLegDigit32 1
+    100294: PantherLLegDigit51
+    100296: PantherLLegDigit52
+    100298: PantherLLegPalm
+    100300: PantherLLegPalm 1
+    100302: PantherLLegPlatform
+    100304: PantherLLegPlatform 1
+    100306: PantherLLegShoulderblade
+    100308: PantherNeck1
+    100310: PantherNeck2
+    100312: PantherNeck3
+    100314: PantherNeck4
+    100316: PantherNeck5
+    100318: PantherPelvis
+    100320: PantherRibcage
+    100322: PantherRLeg1
+    100324: PantherRLeg1 1
+    100326: PantherRLeg2
+    100328: PantherRLeg2 1
+    100330: PantherRLeg3
+    100332: PantherRLeg3 1
+    100334: PantherRLegDigit01
+    100336: PantherRLegDigit01 1
+    100338: PantherRLegDigit02
+    100340: PantherRLegDigit02 1
+    100342: PantherRLegDigit11
+    100344: PantherRLegDigit11 1
+    100346: PantherRLegDigit12
+    100348: PantherRLegDigit12 1
+    100350: PantherRLegDigit21
+    100352: PantherRLegDigit21 1
+    100354: PantherRLegDigit21 2
+    100356: PantherRLegDigit22
+    100358: PantherRLegDigit22 1
+    100360: PantherRLegDigit22 2
+    100362: PantherRLegDigit31
+    100364: PantherRLegDigit31 1
+    100366: PantherRLegDigit32
+    100368: PantherRLegDigit32 1
+    100370: PantherRLegDigit51
+    100372: PantherRLegDigit52
+    100374: PantherRLegPalm
+    100376: PantherRLegPalm 1
+    100378: PantherRLegPlatform
+    100380: PantherRLegPlatform 1
+    100382: PantherRLegShoulderblade
+    100384: PantherSpine1
+    100386: PantherSpine2
+    100388: PantherSpine3
+    100390: PantherSpine4
+    100392: PantherSpine5
+    100394: PantherSpine6
+    100396: PantherTail1
+    100398: PantherTail1 1
+    100400: PantherTail1 2
+    100402: PantherTail2
+    100404: PantherTail2 1
+    100406: PantherTail2 2
+    100408: PantherTail3
+    100410: PantherTail3 1
+    100412: PantherTail3 2
+    100414: PantherTail4
+    100416: PantherTail5
+    100418: PantherTail5 1
+    100420: PantherTail5 2
+    100422: Root_M
+    100424: Scapula_L
+    100426: Scapula_R
+    100428: Tail0_M
+    100430: Tail1_M
+    400000: BackA_M
+    400002: backAnkle_L
+    400004: backAnkle_R
+    400006: BackB_M
+    400008: backBall_L
+    400010: backBall_R
+    400012: backHip_L
+    400014: backHip_R
+    400016: backKnee_L
+    400018: backKnee_R
+    400020: backToe_L
+    400022: backToe_R
+    400024: //RootNode
+    400026: Brown_Bear
+    400028: Brown_Bear_Geo
+    400030: BrownBear_Geo
+    400032: Chest_M
+    400034: DeformationSystem
+    400036: directionalLight1
+    400038: directionalLight2
+    400040: directionalLight3
+    400042: Ear_L
+    400044: Ear_R
+    400046: EarEnd_L
+    400048: EarEnd_R
+    400050: Eye1_L
+    400052: Eye1_R
+    400054: Eye_L
+    400056: eye_L
+    400058: Eye_R
+    400060: eye_R
+    400062: frontAnkle_L
+    400064: frontAnkle_R
+    400066: frontBall_L
+    400068: frontBall_R
+    400070: frontHip_L
+    400072: frontHip_R
+    400074: frontKnee_L
+    400076: frontKnee_R
+    400078: frontToe_L
+    400080: frontToe_R
+    400082: Hair_M
+    400084: Head_M
+    400086: Jaw_M
+    400088: JawEnd_M
+    400090: Main
+    400092: Neck_M
+    400094: NeckPart1_M
+    400096: Panther
+    400098: Panther001
+    400100: Panther001Head
+    400102: Panther001LLeg1
+    400104: Panther001LLeg1 1
+    400106: Panther001LLeg2
+    400108: Panther001LLeg2 1
+    400110: Panther001LLegCollarbone
+    400112: Panther001LLegDigit01
+    400114: Panther001LLegDigit01 1
+    400116: Panther001LLegDigit02
+    400118: Panther001LLegDigit02 1
+    400120: Panther001LLegDigit11
+    400122: Panther001LLegDigit11 1
+    400124: Panther001LLegDigit12
+    400126: Panther001LLegDigit12 1
+    400128: Panther001LLegDigit21
+    400130: Panther001LLegDigit21 1
+    400132: Panther001LLegDigit22
+    400134: Panther001LLegDigit22 1
+    400136: Panther001LLegDigit31
+    400138: Panther001LLegDigit31 1
+    400140: Panther001LLegDigit32
+    400142: Panther001LLegDigit32 1
+    400144: Panther001LLegPalm
+    400146: Panther001LLegPalm 1
+    400148: Panther001LLegPlatform
+    400150: Panther001LLegPlatform 1
+    400152: Panther001Neck1
+    400154: Panther001Neck2
+    400156: Panther001Neck3
+    400158: Panther001Neck4
+    400160: Panther001Neck5
+    400162: Panther001Pelvis
+    400164: Panther001Ribcage
+    400166: Panther001RLeg1
+    400168: Panther001RLeg1 1
+    400170: Panther001RLeg2
+    400172: Panther001RLeg2 1
+    400174: Panther001RLegDigit01
+    400176: Panther001RLegDigit01 1
+    400178: Panther001RLegDigit02
+    400180: Panther001RLegDigit02 1
+    400182: Panther001RLegDigit11
+    400184: Panther001RLegDigit11 1
+    400186: Panther001RLegDigit12
+    400188: Panther001RLegDigit12 1
+    400190: Panther001RLegDigit21
+    400192: Panther001RLegDigit21 1
+    400194: Panther001RLegDigit22
+    400196: Panther001RLegDigit22 1
+    400198: Panther001RLegDigit31
+    400200: Panther001RLegDigit31 1
+    400202: Panther001RLegDigit32
+    400204: Panther001RLegDigit32 1
+    400206: Panther001RLegPalm
+    400208: Panther001RLegPalm 1
+    400210: Panther001RLegPlatform
+    400212: Panther001RLegPlatform 1
+    400214: Panther001RLegShoulderblade
+    400216: Panther001Spine1
+    400218: Panther001Spine2
+    400220: Panther001Spine3
+    400222: Panther001Spine4
+    400224: Panther001Spine5
+    400226: Panther001Spine6
+    400228: Panther001Tail1
+    400230: Panther001Tail2
+    400232: Panther001Tail3
+    400234: Panther001Tail4
+    400236: Panther001Tail5
+    400238: Panther001Tail6
+    400240: Panther001Tail7
+    400242: PantherHead
+    400244: PantherHeadBone001
+    400246: PantherLLeg1
+    400248: PantherLLeg1 1
+    400250: PantherLLeg2
+    400252: PantherLLeg2 1
+    400254: PantherLLeg3
+    400256: PantherLLeg3 1
+    400258: PantherLLegDigit01
+    400260: PantherLLegDigit01 1
+    400262: PantherLLegDigit02
+    400264: PantherLLegDigit02 1
+    400266: PantherLLegDigit053
+    400268: PantherLLegDigit054
+    400270: PantherLLegDigit11
+    400272: PantherLLegDigit11 1
+    400274: PantherLLegDigit12
+    400276: PantherLLegDigit12 1
+    400278: PantherLLegDigit21
+    400280: PantherLLegDigit21 1
+    400282: PantherLLegDigit22
+    400284: PantherLLegDigit22 1
+    400286: PantherLLegDigit31
+    400288: PantherLLegDigit31 1
+    400290: PantherLLegDigit32
+    400292: PantherLLegDigit32 1
+    400294: PantherLLegDigit51
+    400296: PantherLLegDigit52
+    400298: PantherLLegPalm
+    400300: PantherLLegPalm 1
+    400302: PantherLLegPlatform
+    400304: PantherLLegPlatform 1
+    400306: PantherLLegShoulderblade
+    400308: PantherNeck1
+    400310: PantherNeck2
+    400312: PantherNeck3
+    400314: PantherNeck4
+    400316: PantherNeck5
+    400318: PantherPelvis
+    400320: PantherRibcage
+    400322: PantherRLeg1
+    400324: PantherRLeg1 1
+    400326: PantherRLeg2
+    400328: PantherRLeg2 1
+    400330: PantherRLeg3
+    400332: PantherRLeg3 1
+    400334: PantherRLegDigit01
+    400336: PantherRLegDigit01 1
+    400338: PantherRLegDigit02
+    400340: PantherRLegDigit02 1
+    400342: PantherRLegDigit11
+    400344: PantherRLegDigit11 1
+    400346: PantherRLegDigit12
+    400348: PantherRLegDigit12 1
+    400350: PantherRLegDigit21
+    400352: PantherRLegDigit21 1
+    400354: PantherRLegDigit21 2
+    400356: PantherRLegDigit22
+    400358: PantherRLegDigit22 1
+    400360: PantherRLegDigit22 2
+    400362: PantherRLegDigit31
+    400364: PantherRLegDigit31 1
+    400366: PantherRLegDigit32
+    400368: PantherRLegDigit32 1
+    400370: PantherRLegDigit51
+    400372: PantherRLegDigit52
+    400374: PantherRLegPalm
+    400376: PantherRLegPalm 1
+    400378: PantherRLegPlatform
+    400380: PantherRLegPlatform 1
+    400382: PantherRLegShoulderblade
+    400384: PantherSpine1
+    400386: PantherSpine2
+    400388: PantherSpine3
+    400390: PantherSpine4
+    400392: PantherSpine5
+    400394: PantherSpine6
+    400396: PantherTail1
+    400398: PantherTail1 1
+    400400: PantherTail1 2
+    400402: PantherTail2
+    400404: PantherTail2 1
+    400406: PantherTail2 2
+    400408: PantherTail3
+    400410: PantherTail3 1
+    400412: PantherTail3 2
+    400414: PantherTail4
+    400416: PantherTail5
+    400418: PantherTail5 1
+    400420: PantherTail5 2
+    400422: Root_M
+    400424: Scapula_L
+    400426: Scapula_R
+    400428: Tail0_M
+    400430: Tail1_M
+    2100000: Brown_Bear_material1
+    2100002: Brown_Bear_Eye
+    4300000: Brown_Bear
+    4300002: eye_L
+    4300004: eye_R
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Brown_Bear
+    13700002: eye_L
+    13700004: eye_R
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Panther
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
